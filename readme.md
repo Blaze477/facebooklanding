@@ -1,5 +1,6 @@
 # TITLE
--FULLSTACK CLASS
+- Fullstack.Class
+
   #### HTML CLASS
 Html is the skeletal form of my webpage
  There are Html elements to know which would be listed below
@@ -33,3 +34,14 @@ Section is like a special page on your website that wants to pass specific infor
 Talked about elements like the strong elements which is used to give us a bold textnote and also allows us to create an emphasy or awareness on our web pages/media e.g <p> I am a fullstack<strong> Developer</strong></p>
 We also have Anchor tag which is used to navigate within our website to another page/website or another external website.
 
+
+
+#### CSS CLASS
+How and where to use CSS, and there are 3 ways 
+- Externally Imported
+- Heading Styling
+- Inline Styling
+ There are 3 ways to reference an element:
+ - Class selector .
+ - Id Selector #
+ - Element by its name (tagname)
