@@ -7,7 +7,7 @@ Html is the skeletal form of my webpage
  1. Headings <h1-h6>
  2. Paragraph tags-it has opening and closing tags like <p></p>
  3. Image- It is a self enclosing tag<img/>
- i. you can get image through remotely and localy but here we discussed only remotely
+ i. you can get image through remotely and locally but here we discussed only remotely
   by <img src=""> then you'd input the copied URL of the page address of the picture you got from the internet, src means source.
   ii. you can also make some changes by adding the height and width 
 4. Input-it is an element used to receive information from the user.
